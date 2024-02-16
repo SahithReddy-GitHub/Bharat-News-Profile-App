@@ -1,0 +1,6 @@
+.tabsList {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-evenly;
+  padding: 0px;
+}

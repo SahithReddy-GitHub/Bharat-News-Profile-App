@@ -1,0 +1,52 @@
+.bgProfile {
+  margin: auto;
+  background-color: black;
+  height: 100vh;
+  display: flex;
+}
+.mainContainer {
+  width: 80%;
+  padding: 15px 15% 15px 15%;
+  display: flex;
+  flex-direction: column;
+  color: white;
+  overflow-y: scroll;
+}
+@media screen and (max-width: 1250px) {
+  .mainContainer {
+    padding: 15px 7% 15px 7%;
+  }
+}
+@media screen and (max-width: 1000px) {
+  .mainContainer {
+    width: 75%;
+  }
+}
+hr {
+  width: 100%;
+  border: 1px solid #ebebeb;
+  margin: 25px 0px 15px 0px;
+}
+
+.postsList {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0px;
+  justify-content: space-between;
+}
+@media screen and (max-width: 756px) {
+  .bgProfile {
+    flex-direction: column;
+  }
+}
+@media screen and (max-width: 756px) {
+  .mainContainer {
+    width: 100%;
+  }
+}
+@media screen and (max-width: 576px) {
+  .mainContainer {
+    padding: 10px;
+  }
+}

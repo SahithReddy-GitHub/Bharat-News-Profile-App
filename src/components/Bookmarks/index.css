@@ -1,0 +1,7 @@
+.bookmarksList {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0px;
+  justify-content: space-between;
+}

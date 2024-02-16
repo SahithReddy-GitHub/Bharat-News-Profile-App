@@ -1,0 +1,48 @@
+.postListItem {
+  width: 31%;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+.postImg {
+  width: 100%;
+}
+.postCard {
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  color: white;
+}
+.postHead {
+  font-size: 14px;
+  font-weight: 500;
+  margin: 0px;
+  padding: 0px;
+  margin-bottom: 10px;
+}
+.postPara {
+  font-size: 10px;
+  font-weight: 500;
+  margin: 0px;
+  padding: 0px;
+  margin-bottom: 5px;
+}
+@media screen and (max-width: 1000px) {
+  .postListItem {
+    width: 48%;
+  }
+  .postCard {
+    padding: 15px 5px 15px 5px;
+  }
+}
+@media screen and (max-width: 576px) {
+  .postListItem {
+    width: 80%;
+    margin: auto;
+    margin-bottom: 20px;
+  }
+  .postImg {
+    height: 200px;
+  }
+}

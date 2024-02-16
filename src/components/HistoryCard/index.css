@@ -1,0 +1,40 @@
+.historyListItem {
+  width: 90%;
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 20px;
+  cursor: pointer;
+}
+.historyImg {
+  width: 150px;
+  margin-right: 15px;
+}
+.historyCard {
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  color: white;
+}
+.historyHead {
+  font-size: 14px;
+  font-weight: 500;
+  margin: 0px;
+  padding: 0px;
+  margin-bottom: 10px;
+}
+.historyPara {
+  font-size: 10px;
+  font-weight: 500;
+  margin: 0px;
+  padding: 0px;
+  margin-bottom: 5px;
+}
+@media screen and (max-width: 576px) {
+  .historyImg {
+    margin-right: 5px;
+    width: 120px;
+  }
+  .historyCard {
+    padding: 5px;
+  }
+}

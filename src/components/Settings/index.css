@@ -1,0 +1,14 @@
+.bgSettings {
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+.settingsHead {
+  font-size: 48px;
+  font-weight: 700;
+  color: white;
+  font-family: 'Roboto';
+}

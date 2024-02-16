@@ -1,0 +1,76 @@
+.proCon {
+  display: flex;
+  background-color: transparent;
+  justify-content: space-between;
+  align-items: center;
+}
+.proHeadCard {
+  width: 7vw;
+  height: 7vw;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: grey;
+  margin-right: 30px;
+}
+.headPro {
+  font-size: 4vw;
+  font-weight: 600;
+  color: white;
+}
+.proDetailsCard {
+  display: flex;
+  flex-direction: column;
+}
+.userName {
+  font-size: 18px;
+  color: white;
+  margin-bottom: 5px;
+}
+.mail {
+  font-size: 14px;
+  color: grey;
+  margin: 0px;
+}
+.bio {
+  font-size: 14px;
+  color: grey;
+}
+@media screen and (max-width: 1000px) {
+  .headPro {
+    font-size: 4vw;
+  }
+  .proHeadCard {
+    width: 9vw;
+    height: 9vw;
+  }
+}
+@media screen and (max-width: 756px) {
+  .proHeadCard {
+    margin-right: 15px;
+    width: 15vw;
+    height: 12vw;
+  }
+  .headPro {
+    font-size: 6vw;
+  }
+}
+@media screen and (max-width: 576px) {
+  .proHeadCard {
+    width: 20vw;
+    height: 15vw;
+  }
+  .headPro {
+    font-size: 7vw;
+  }
+}
+@media screen and (max-width: 510px) {
+  .proHeadCard {
+    width: 25vw;
+    height: 18vw;
+  }
+  .headPro {
+    font-size: 8vw;
+  }
+}
