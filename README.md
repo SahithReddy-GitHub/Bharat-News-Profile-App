@@ -35,4 +35,4 @@ This README provides a brief overview of how to set up and run the React applica
 Feel free to embellish it with badges, additional instructions, or any other information you find relevant for users of your repository.
 
 ### Final Bharat News Profile App Website Link:
-- (newsprofileapp.ccbp.tech/profile)
+- https://newsprofileapp.ccbp.tech/profile
