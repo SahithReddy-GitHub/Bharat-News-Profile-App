@@ -36,3 +36,17 @@ Feel free to embellish it with badges, additional instructions, or any other inf
 
 ### Final Bharat News Profile App Website Link:
 - https://newsprofileapp.ccbp.tech/profile
+
+
+
+![image](https://github.com/SahithReddy-GitHub/Bharat-News-Profile-App/assets/121953578/b7a01708-9761-43c2-bb8d-4ab063664052)
+
+![image](https://github.com/SahithReddy-GitHub/Bharat-News-Profile-App/assets/121953578/ce7099ec-b291-4639-9452-2e3813533804)
+
+![image](https://github.com/SahithReddy-GitHub/Bharat-News-Profile-App/assets/121953578/0d734d54-297f-4035-87fd-5ec0237ffd24)
+
+![image](https://github.com/SahithReddy-GitHub/Bharat-News-Profile-App/assets/121953578/61ee4025-9af9-418f-9a56-316bd1d89c23)
+
+![image](https://github.com/SahithReddy-GitHub/Bharat-News-Profile-App/assets/121953578/3f31fe8e-39c0-49df-a8fa-ae98292f176a)
+
+![image](https://github.com/SahithReddy-GitHub/Bharat-News-Profile-App/assets/121953578/7315c4c0-24de-40ea-8421-e9bfc46f334b)
